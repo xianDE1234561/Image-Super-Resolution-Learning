@@ -1,0 +1,4 @@
+*.md -text
+*.sha256 text eol=lf
+*.pdf binary
+*.docx binary
